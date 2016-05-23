@@ -179,6 +179,13 @@ then from mouse context menu: Mark Directory As -> Excluded
     - Working directory: $ProjectFileDir$
     - Output paths to refresh: [empty]
 
+Screenshots
+-----------
+
+![About menu] (https://github.com/zappee/react-demo/blob/master/docs/react-demo-screenshot-01.png)
+![Profile menu + sub-menu] (https://github.com/zappee/react-demo/blob/master/docs/react-demo-screenshot-02.png)
+![RESTapi demo 1] (https://github.com/zappee/react-demo/blob/master/docs/react-demo-screenshot-03a.png)
+![RESTapi demo 2] (https://github.com/zappee/react-demo/blob/master/docs/react-demo-screenshot-03b.png)
 
 Materials
 ---------
