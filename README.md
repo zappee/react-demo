@@ -148,37 +148,36 @@ plugins: [
 ]
 ```
 
-
 WebStorm related settings
 -------------------------
-(1) Exclude "node_modules" directory in WebStorm when using refactor, search, etc.
-    To exclude the directory from being searched via navigation pop-up, pick node_modules directory in Project view,
-    then from mouse context menu: Mark Directory As -> Excluded
+1. Exclude `node_modules` directory in WebStorm when using refactor, search, etc.
+To exclude the directory from being searched via navigation pop-up, pick node_modules directory in Project view,
+then from mouse context menu: Mark Directory As -> Excluded
 
-(2) Enable auto compile of *.js files with babel
-    * open Terminal
-    * npm install --save-dev babel-cli
-    * Now go to Settings > Tools > File watchers, click + button and select Custom file watcher from the list.
-      Help: https://www.jetbrains.com/help/webstorm/2016.1/new-watcher-dialog.html)
-	- Name: Webpack
-        - Description: Transpiles ECMAScript 6 code to ECMAScript 5 with webpack external tool
+2. Enable auto compile of *.js files with babel
+* open Terminal
+* `npm install --save-dev babel-cli`
+* Now go to Settings > Tools > File watchers, click + button and select Custom file watcher from the list.
+  Help: https://www.jetbrains.com/help/webstorm/2016.1/new-watcher-dialog.html)
+    - Name: Webpack
+    - Description: Transpiles ECMAScript 6 code to ECMAScript 5 with webpack external tool
         
-        - Output Filters: [empty]
-        
-        - Immediate file synchronization: checkbox is cleared
-        - Track only root files: checkbox is cleared
-        - Show console: Always
-        - Trigger watcher regardless: checkbox is selected
-        
-        - File type: JavaScript
-        - Scope: add a new scope
-            Name: app directory
-            Pattern: file[demo-empty-project]:app//*
-	       
-        - Program: $ProjectFileDir$/node_modules/.bin/webpack
-        - Arguments: [empty]
-        - Working directory: $ProjectFileDir$
-        - Output paths to refresh: [empty]
+    - Output Filters: [empty]
+    
+    - Immediate file synchronization: checkbox is cleared
+    - Track only root files: checkbox is cleared
+    - Show console: Always
+    - Trigger watcher regardless: checkbox is selected
+    
+    - File type: JavaScript
+    - Scope: add a new scope
+        Name: app directory
+        Pattern: file[demo-empty-project]:app//*
+       
+    - Program: $ProjectFileDir$/node_modules/.bin/webpack
+    - Arguments: [empty]
+    - Working directory: $ProjectFileDir$
+    - Output paths to refresh: [empty]
 
 
 Materials
