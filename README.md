@@ -183,6 +183,7 @@ then from mouse context menu: Mark Directory As -> Excluded
 Materials
 ---------
 * [ECMAScript 6] (http://es6-features.org/#Constants)
+
 * [button + get request to rest] (http://stackoverflow.com/questions/28250103/react-how-to-navigate-via-clickhandlers)
 * [routing] (https://css-tricks.com/learning-react-router)
 * [menu layout] (https://www.npmjs.com/package/react-layout-pane)
