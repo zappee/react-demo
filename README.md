@@ -182,25 +182,26 @@ then from mouse context menu: Mark Directory As -> Excluded
 Screenshots
 -----------
 About menu
-![About menu] (https://github.com/zappee/react-demo/blob/master/docs/react-demo-screenshot-01.png)
+
+![About menu](https://github.com/zappee/react-demo/blob/master/docs/react-demo-screenshot-01.png)
 ---
 Profile menu + sub-menu
-![Profile menu + sub-menu] (https://github.com/zappee/react-demo/blob/master/docs/react-demo-screenshot-02.png)
+
+![Profile menu + sub-menu](https://github.com/zappee/react-demo/blob/master/docs/react-demo-screenshot-02.png)
 ---
-![RESTapi demo 1] (https://github.com/zappee/react-demo/blob/master/docs/react-demo-screenshot-03a.png)
-![RESTapi demo 2] (https://github.com/zappee/react-demo/blob/master/docs/react-demo-screenshot-03b.png)
-RESTapi demo 1
+![RESTapi demo 1](https://github.com/zappee/react-demo/blob/master/docs/react-demo-screenshot-03a.png)
+
+![RESTapi demo 2](https://github.com/zappee/react-demo/blob/master/docs/react-demo-screenshot-03b.png)
+
 -------------------------------------------------------------------------------------------------------
 
 Materials
 ---------
-* [ECMAScript 6] (http://es6-features.org/#Constants)
+* [ECMAScript 6](http://es6-features.org/#Constants)
 
-* [button + get request to rest] (http://stackoverflow.com/questions/28250103/react-how-to-navigate-via-clickhandlers)
-* [routing] (https://css-tricks.com/learning-react-router)
-* [menu layout] (https://www.npmjs.com/package/react-layout-pane)
-  
-* [complete component example] (http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react)
-  
-* [tutorial] (http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack)
-* [tutorial video] (https://css-tricks.com/video-screencasts/147-starting-react-powered-comment-form)  
+* [button + get request to rest](http://stackoverflow.com/questions/28250103/react-how-to-navigate-via-clickhandlers)
+* [routing](https://css-tricks.com/learning-react-router)
+* [menu layout](https://www.npmjs.com/package/react-layout-pane)
+* [complete component example](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react)
+* [tutorial](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack)
+* [tutorial video](https://css-tricks.com/video-screencasts/147-starting-react-powered-comment-form)  
