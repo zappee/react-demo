@@ -204,4 +204,8 @@ Materials
 * [menu layout](https://www.npmjs.com/package/react-layout-pane)
 * [complete component example](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react)
 * [tutorial](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack)
-* [tutorial video](https://css-tricks.com/video-screencasts/147-starting-react-powered-comment-form)  
+* [tutorial video](https://css-tricks.com/video-screencasts/147-starting-react-powered-comment-form)
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kv44xx8k3oe0xmm3v1rk" alt="trackgit-views" />
+</a>
